@@ -1,0 +1,1 @@
+ALTER TABLE wizards ADD COLUMN color TEXT;
